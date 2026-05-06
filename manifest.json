@@ -1,0 +1,9 @@
+{
+  "id": "scroll-of-beasts",
+  "name": "Scroll of Beasts",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Monster browser for the 5e Statblocks plugin — filter and view statblocks by name, type, size, and CR.",
+  "author": "E Lange",
+  "isDesktopOnly": false
+}
